@@ -1,5 +1,8 @@
-# ManalBehih
-This is my Thesis for my Master's, under the supervision of Dr. Sheng with the University of Guelph
+# Void Defect Detection for Extrusion-based Additive Manufacturing Using Machine Learning
+### Manal Behih
+## Introduction
+This is my Thesis for my Master's, under the supervision of Dr. Sheng with the University of Guelph.
+## Description
 The primary objective of this project is to develop a void detection
 algorithm leveraging 3 Optimization Techniques with the assistance of Reinforcement
 Learning (RL) techniques, with a particular focus on Q-learning. The algorithm aims to
